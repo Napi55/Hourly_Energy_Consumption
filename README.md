@@ -1,4 +1,4 @@
-# Hourly Energy Consumption Analysis
+# Hourly Energy Consumption 
 
 [![Project Report](https://img.shields.io/badge/Project%20Report-View%20Report-blue)](https://example.com/hourly-energy-consumption-report)
 
