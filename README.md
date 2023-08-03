@@ -15,7 +15,7 @@ This dataset offers detailed hourly power consumption data in megawatts (MW) for
 
 
 ### 1. Business Question
-Forecast energy consumption patterns in select regions across 13 states from 1998 to 2018.
+Forecast energy consumption patterns in select regions across 13 states .
 
 ### 2. Understanding the Business
 The forecast supports the planning and optimization of energy resources, aiding policymakers, utility companies, and researchers in making informed decisions.
