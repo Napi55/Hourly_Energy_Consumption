@@ -2,7 +2,7 @@
 
 [![Project Report](https://img.shields.io/badge/Project%20Report-View%20Report-blue)](https://github.com/Napi55/Hourly_Energy_Consumption/files/12253876/Report.3.pdf)
 
-![PJM Logo](https://storage.googleapis.com/kaggle-datasets-images/197709/398915/6d1586a2a89f2cdcc5377cd3a71d74cf/data-original.png)
+![PJM Logo](https://github.com/Napi55/Hourly_Energy_Consumption/assets/88117366/55c2eff5-edbf-49e9-b3d1-d047c305b03b)
 
 ## Overview
 
