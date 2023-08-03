@@ -2,11 +2,13 @@
 
 [![Project Report](https://img.shields.io/badge/Project%20Report-View%20Report-blue)](https://github.com/Napi55/Hourly_Energy_Consumption/files/12253876/Report.3.pdf)
 
-![PJM Logo](https://github.com/Napi55/Hourly_Energy_Consumption/assets/88117366/55c2eff5-edbf-49e9-b3d1-d047c305b03b)
+
 
 ## Overview
 
 The Hourly Energy Consumption Analysis project delves into the exploration and prediction of power consumption using a comprehensive dataset covering over two decades of hourly energy consumption data from select regions across 13 states in the United States. The analysis spans from Washington (the District of Columbia) in 1998 to 2018, providing invaluable insights into energy consumption patterns and trends.
+
+![PJM Logo](https://github.com/Napi55/Hourly_Energy_Consumption/assets/88117366/55c2eff5-edbf-49e9-b3d1-d047c305b03b)
 
 ## Dataset Details
 
